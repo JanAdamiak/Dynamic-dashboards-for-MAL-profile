@@ -32,6 +32,6 @@ In this project I'm hoping to learn more about use of API's and development of f
 
 ## Useful resources
 
-https://jikan.docs.apiary.io/#
-https://pypi.org/project/python3-mal/
-https://www.programmableweb.com/api/myanimelist
+* https://jikan.docs.apiary.io/#
+* https://pypi.org/project/python3-mal/
+* https://www.programmableweb.com/api/myanimelist
